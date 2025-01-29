@@ -102,4 +102,10 @@ In the **multiclass classification** part, two experiments were conducted:
 For further details on the model design, experiments, and results, please refer to the attached report, which provides a comprehensive analysis of the entire project.
 
 ---
+
 Feel free to reach out if further clarification is needed!
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
